@@ -1,0 +1,21 @@
+body {
+  background-color: bisque;
+}
+
+#heading {
+  display: flex;
+  justify-content: center;
+}
+
+#container {
+}
+
+#results {
+  margin: auto;
+  width: 14.5%;
+}
+
+#buttons {
+  margin: 0 auto;
+  width: 15%;
+}
